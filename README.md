@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/Olivernha/Authentication-App/tree/main">
       Solution
     </a>
     <span> | </span>
@@ -50,8 +50,8 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Express](https://www.react.express/)
+- [VueJS](https://v3.vuejs.org/)
+- [PHP(Laravel)](https://laravel.com/)
 
 ## Features
 
