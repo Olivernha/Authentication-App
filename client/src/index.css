@@ -1,0 +1,41 @@
+/*@import url('https://fonts.googleapis.com/icon?family=Material+Icons');*/
+@import "~material-design-icons/iconfont/material-icons.css";
+@tailwind base;
+@tailwind components;
+.login{
+    height: 550px;
+    width: 473.83062744140625px;
+
+}
+.register{
+    height: 730px;
+    width: 473.83062744140625px;
+
+}
+.forgot{
+    height: 550px;
+    width: 473.83062744140625px;
+}
+.reset{
+    height: 500px;
+    width: 473.83062744140625px;
+}
+.dropdown{
+    height: 188px;
+    width: 188px;
+    left: -8rem;
+    top:2.8rem;
+    position: absolute;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.input-custom{
+    left: 3.1rem;
+    top: 0.7rem;
+
+}
+
+@tailwind utilities;
