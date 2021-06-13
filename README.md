@@ -22,7 +22,7 @@
   </h3>
 </div>
 <div align="center">
-   <h6 style="{color:"red"}">Backend service is not available on the cloud , so download and test it in local environment</h6>
+   <h4 style="{color:"red"}">Backend service is not available in this demo  , so download and test it in local environment</h4>
 </div>
 <!-- TABLE OF CONTENTS -->
 
